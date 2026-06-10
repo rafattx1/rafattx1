@@ -7,7 +7,7 @@ Olá, eu sou Rafael Teixeira Barboza! Sou desenvolvedor(a) com paixão por tecno
 ## 🌐 Conecte-se comigo:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rafaeel.__) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/rafael-t-72638422b)](http://linkedin.com/in/rafael-teixeira-barboza-7a438722b/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)][((http://linkedin.com/in/rafael-teixeira-barboza-7a438722b/)]
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafattx1
 
 ---
